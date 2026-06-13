@@ -29,7 +29,7 @@ Technologies Used
 
 Purpose
 
-This project was developed as part of the NayePankh Foundation internship selection process to demonstrate front-end web development skills.
+This project was developed as part of the NayePankh Foundation internship selection process to demonstrate web development skills.
 
 Note
 
